@@ -1,12 +1,6 @@
-## azizmahdoui_s_application3
 
-Generated with ❤️ from [DhiWise](https://www.dhiwise.com)
 
-## Description
 
-- This React application is built using [Vite](https://vitejs.dev/).
-- It uses [Tailwind CSS](https://tailwindcss.com/)
-- The application is generated in [TypeScript](https://www.typescriptlang.org/).
 
 ## Pre-requisites
 
